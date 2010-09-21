@@ -1,0 +1,37 @@
+AI MODES:
+
+Placing Strategy:
+- Default: Range is circular and you stay near your partner.
+- Stay away: Keeps distance from any monsters at all times; strictly long range.
+- Watch my back: Always targets enemies 180 degrees from partner's back.
+- Venus Flytrap: Stay far away, and lead any monsters wandering around to the partner, then engage.
+
+    ||
+    \/
+
+Field Strategy:
+- Offensive: Attack anything in range.
+- Defensive: Only attacks enemies who attack him first.
+- Protective: Only attacks enemies who attack partner.
+- Do nothing: Don't attack at all.
+
+    ||
+    \/
+
+Attacking Strategy:
+- Free: Use average means to destroy enemy; magic/skills will be used, but nothing over-the-top.
+- Fistfight: Only use weapons. No skills or magic.
+- Conservative: Uses magic and skills rarely; mostly physical attacks.
+- Rat: Use skills and magic that inflict status ailments, lower enemy status parameters, and make it harder for the enemy to fight.
+- Leech: Melee-only, but only use skills and magic that absorb hp (or mana).
+- Mage: No melee. Skills/magic only.
+- Cleric: Healing and boosting magic are prioritized before attacking or offensive spells.
+
+
+Options: Same target if idle?, Same target always?
+
+
+
+Independent Strategies:
+- Safety First: Use healing and boosting magic only to help you. No attacks. Stays away from enemies.
+- Berserk: Use very strong magic and skills to destroy EVERYTHING in range.

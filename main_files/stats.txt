@@ -1,0 +1,66 @@
+Similar to RO stats.
+
+STR = each point is +1 attack. When at every 10 str, there is a dmg increase;  [STR/10]^2
+All DMG is modified by a .8 to .12 modifier. (or divide by 10 and times by 8-12)
+FORMULA FOR DMG = [PlayerAttack - MonsterDef] + modifier 
+
+
+DEX = Accuracy. DEX improves base damage by 1 point per 5 DEX. Every point in dex increases hit by 1. Also increases Atk speed.
+
+
+EVD = Dodge %. For each point in EVD you get 1 point in Dodge. Additionally, you gain +1 dodge for each level you gain.
+FORMULA FOR DODGE = 20 + Flee of Player - Hit of enemy
+
+
+INT = spell dmg + mana pool. MP increases by 1% over the base amount for your job and base level per 1 INT. Disregards bonuses. SP regen increases by 1 every 6 INT. INT reduces magical attacks by 1 damage per 1 INT. 
+
+
+CON = max HP and defense. HP increases by 1% over the base amount for your job and base level per 1 CON. So this 1% disregards all bonuses like +CON and armour that gives +hp. CON reduces physical attacks by 0.8 damage per 1 CON. HP regen increases 1 point/tick every 5 CON.
+
+
+LUK = ability to score crits. LUK, like DEX, adds 1 point of base damage per 5 LUK. Every 3 LUK is 1% critical rate.
+
+
+function critCheck() {
+k = 100;
+critrate = player.Crit;
+k -= critrate;
+critrate = k;
+randomNumber = random (100);
+if (randomNumber<critrate) {
+//no crit
+} else {
+//making it 1 so when it checks if critting == 0, its false and
+//does crit formula
+critting = 1;
+}
+
+
+if user presses tab key
+call targetting
+
+DIRECT TARGETTING FUNCTION...
+the player can hit enemys physically even if they are not targetted... but any one target skills used will hit the enemy targetted.
+Targetting will take the enemy's def and evade and such
+function targetting() {
+for (i=0; i<6; i++) {
+}
+
+}
+
+VVV THIS IS OLD
+WHAT DO I NEED TO DO... Well make the hittest take the enemy that you're hitting's stats. def, dodge and whatever. When hitting this will automatically make them the target, UNLESS SPECIFIED OTHERWISE IN OPTIONS. You can use tab to change the enemy to quick cast a skill on something thats behind you or whatever, but when you hit it will remake the target you're attacking as your .. well, target.
+
+Ok so when you atk target, it deletes the attachment from every other monster and then attaches it to the monster youre attacking.
+
+RIGHT SHIFT = switch between felix and tenko
+LEFT SHIFT = switch targets. 
+
+Okay, is there a way to make a "cycling" of enemies? like say I press shift, and it will attach a movieclip to enemy0. Then next time I press shift it will remove it from enemy0 and attach it to enemy1, then pressing it again will remove from 1 and attach to 2, and then it goes back to the beginning to enemy0.
+
+Oh yeah okay and so is there any way to make the player be able to only hit ONE enemy regardless of how many are in his range. So if there's like 3 enemies that are in his attacking range, he's only able to do damage on one even if his hittest is touching other monsters.
+
+*Enemy HP bars?
+*Cycling through enemies?
+*Walls/hittests
+*Making the player recognize there's an object in the middle of the stage.

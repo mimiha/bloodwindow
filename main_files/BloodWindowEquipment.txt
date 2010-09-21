@@ -1,0 +1,103 @@
+=============
+=   Knives  =
+=============
+
+Kitchen Knife
+Good for buttering I'd guess
++7 ATK
+SPECIAL POWERS:
+none
+
+Swiss Army Knife
+Camptrip safety
++15 ATK
+SPECIAL POWERS:
+none
+
+Stainless Steel Knife
+Probably ordered from some Martha Stewart magazine
++21 ATK
+SPECIAL POWERS:
+none
+
+Vain Dagger
+Narcists' best weapon
++30 ATK
+SPECIAL POWERS:
+none
+
+Kashmir Knife
+If Led Zeppelin was a knife, it would be this one
++38 ATK
+SPECIAL POWERS:
+none
+
+Golden Dagger
+Though in reality, gold is too soft
++46 ATK
+SPECIAL POWERS:
+none
+
+Knife of Romance
+Blood spots not included
++52 ATK
+SPECIAL POWERS:
+none
+
+Rune Dagger
+Bejeweled with stolen lewtz from some pyramids
++65 ATK
+SPECIAL POWERS:
+none
+
+Throatslitter
+Who's up for some jugular?
++78 ATK
+SPECIAL POWERS:
+none
+
+Knife of Shadows
+Materialized from darkness?
++90 ATK
+SPECIAL POWERS:
+none
+
+Blood Dagger
+Stabbity rip stab stab
++113 ATK
+SPECIAL POWERS:
+none
+
+Corpse Cutter
+Not a basic medical tool
++130 ATK
+SPECIAL POWERS:
+none
+
+Suicide
+A cursed knife that makes you want to be emo
++152 ATK
+SPECIAL POWERS:
+none
+
+
+House Auger
+A legendary dagger that does more damage based on the enemy's defense.
+
+
+
+Chaos Knife
+Demon Cutter
+
+==============
+=  Knuckles  =
+==============
+
+Dusty Knuckles
+Good ol' fashion street fighting style
++7 ATK
+SPECIAL POWERS:
+none
+
+Emperor's Finger
+Diamond Fist
