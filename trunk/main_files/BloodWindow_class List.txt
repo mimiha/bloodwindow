@@ -1,0 +1,65 @@
+ALLEN:
+
+Basic ->
+
+-TRUTH: Good at both magic and melee
+	SPEED
+Pros: Not bad at any one category, very vertasile
+Cons: Doesn't excel in one category, needs curse form
+-Misericorde Technique: Raphael's Poem
+
+
+-FAITH: Excellent at magic. Poor with melee.
+	MAGIC
+Pros: Strong magic, wipes out most melee units
+Cons: MP usage, poor with melee, needs curse form
+-Misericorde Technique: Vanquishing Sacral Spear
+
+
+-JUSTICE: Excellent at melee. Poor with magic.
+	POWER
+Pros: Strong melee, doesn't require curse form, strongest Misericorde skill in the game
+Cons: Poor with magic
+-Misericorde Technique: Indra's Arrow
+
+
+-VAINGLORY: Excellent at melee.
+	POWER
+Pros: Extremely strong melee, ability to use dark spells, looks cool
+Cons: Magic can only be obtained by stealing from Wretched, all prior skills are erased, slower movement, can only wield Blade of Darkness and no other weapons
+-Misericorde Technique: Memento Mori
+
+
+
+
+
+
+
+FELIX:
+
+-CURSE: Good at both magic and attacking.
+	POWER
+Pros: Not bad at any one category, very vertasile
+Cons: Doesn't excel in one category, needs curse form
+-Misericorde Technique: Thanatos's Poem
+
+
+-AGONY: Excellent at magic. Poor with melee.
+	MAGIC
+Pros: Strong magic, wipes out most melee units, as Chloe you are the strongest magic unit in the game
+Cons: MP usage, poor with melee, needs curse form
+-Misericorde Technique: Chaos Spear
+
+
+-DESPAIR: Excellent at melee. Poor with magic.
+	SPEED
+Pros: Strong melee, doesn't require curse form, fastest unit in the game
+Cons: Poor with magic
+-Misericorde Technique: Dancing Blade
+
+
+-TEMPERANCE: Excellent at melee.
+	POWER
+Pros: Extremely strong melee, ability to use holy spells, looks cool
+Cons: Magic can only be obtained by stealing from Wretched, all prior skills are erased, can only wield Magic Saber or Bow of Light and no other weapons
+-Misericorde Technique: Starlight Symphony

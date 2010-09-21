@@ -1,0 +1,38 @@
+["enemy"+o].distX=Math.abs(["enemy"+o]._x-player._x);
+^^^^^ MEasureing distance
+
+
+VVVVVVVVVV AI check
+You can do that with simple if.else statements and some frame changes:
+*measure distance between _x coordinate of hero and _ coordinate of enemy
+*if distance is less then some value, enemy can "see hero"
+*now send enemy to frame with its walking animation
+*move toward hero
+*measure distance again
+*if distance is less then attack range, start attack animation
+*check if hero was hit
+
+Hitokage Iai: Anyways _root.vars = 3 just defines there are 3 movie clipsa/enemies to check
+Hitokage Iai: I usually define that if I'm not using an array to hold enemies
+Hitokage Iai: Line 2 defines a new harry to hold all the data that will be collected in the following for loop
+Hitokage Iai: Lines 3-7 would be the for loop. This randomizes the enemies' x position
+Hitokage Iai: Then it takes the _x position of each one of the enemies' x positions and stores them in the array
+Hitokage Iai: detectDist.sort simply sorts the array in numberical order so that the smallest number becomes the first element of the array. The first element in this case should be the _x position of the enemy nearest to the player, since.. well, smallest _x is nearer in this case
+Hitokage Iai: The next for loop checks the enemies and matches their _x with the first element of the array. This is to see which enemy is the closest. If it's the closest its alpha transparency is set to 50%
+Hitokage Iai: That's about it
+
+_root.vars = 3;
+detectDist = new Array();
+for (i=0; i<_root.vars; i++) {
+	_root["enemy"+i]._x = int(Math.random()*200)+100;
+	tempNum = _root["enemy"+i]._x;
+	detectDist[i] = tempNum;
+}
+detectDist.sort(Array.NUMERIC);
+for (o=0; o<_root.vars; o++) {
+	if (_root["enemy"+o]._x == detectDist[0]) {
+		_root["enemy"+o]._alpha = 50;
+	}
+}
+trace(detectDist);
+stop();

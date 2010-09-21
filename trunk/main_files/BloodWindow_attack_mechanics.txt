@@ -1,0 +1,45 @@
+
+
+               TRIANGLE
+SQUARE                       O
+                    X
+
+
+
+Triangle Button:
+	-ranged button for felix (throwing knives, bow)
+	-slow-strong attack for allen
+	-exits out of item/spell screen
+
+Square button:
+	-weak-fast attack
+
+X Button:
+	-action button, randomizes with O
+	-in meat machines, is the jump button
+	-selects item/spell in the item/spell screens
+
+O Button:
+	-action button, randomizes with X
+	-in meat machines, this is the 'pick up/set down' button
+
+R1 Button:
+	-turns main 4 buttons into the hotkeyed spells, spell list 1
+
+L1 button:
+	-turns main 4 buttons into the hotkeyed spells, spell list 2
+
+R2 button:
+	-joint move between allen and felix, (i.e God reel roulette)
+
+L2 button:
+	-taunt
+
+Left D-pad:
+	-pulls up item list
+
+Right D-pad:
+	-pulls up skill/magic list
+
+Up/Down D-pad:
+	-scroll through the lists

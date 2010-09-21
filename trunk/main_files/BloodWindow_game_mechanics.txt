@@ -1,0 +1,32 @@
+At the beginning of the game, you start with the three basic skills:
+Launcher, Masher, and Finisher.
+
+Launcher will launch enemies in the air, followed by the masher, then the finisher.
+
+However, you could also use the masher and the finisher on the ground. Some enemies can't be launched because they are too heavy, or their launching sucks and they only go a short ways up.
+
+
+A is quick attack, lighter. Allen throws jabs and Felix stabs.
+B is a heavier attack that has a longer delay. Allen does harder punches and some kicks; Felix does harder facestabs and full swings.
+Y is jumping
+X is long range attack
+
+
+Some other attacks: 
+-Tripping, sending an enemy on the floor. When they're down you can step on them by mashing buttons.
+-Guard-breaking attacks. Some enemies will guard, and normal attacks won't penetrate through the defenses, so you use these to break through the guard.
+-Holding B -> Grabbing. You can throw an enemy at another enemy, or swing them around. The fun part is there's no restrictions on this, no matter how big the enemy is, because Felix uses schiavi and Allen will just summon giant light hands.
+
+
+
+When you switch classes, you get new launcher/masher/finisher.
+Also, once you reach a certain level, you can start picking classes. you can switch the classes at certain times, as long as you have a statue (or whatever it is thats needed to switch), but each has their own growth rate. So you can be a noob in one class and a pro in the other if you trained that one enough.
+The only one that is permanent, however, is becoming the forsaken knight/blinded archfiend. After that, it is impossible to switch.
+
+
+Allen's basic skills:
+Launcher -> Palm Smash
+Mash (ground) -> Twisted Knuckle
+Mash (midair) -> Circuitshock
+Finisher (ground) -> Nyuudou Fist
+Finisher (midair) -> Final Decision
